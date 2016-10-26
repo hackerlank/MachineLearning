@@ -1,5 +1,4 @@
-Tensor Decomposition using Jennrich's Algorithm
-
+Tensor Decomposition Algorithms (Jennrich, Tucker1, and Tucker3)
 * Example Usage:
 
  A = randn(5,3);
